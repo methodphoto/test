@@ -3,7 +3,7 @@ layout: default
 title: Plus Size UK Masterlist
 ---
 
-{{page.title}}
+# {{page.title}}
 
 Compiled by Charlotte Earney. Please get in touch via [Twitter @charlotteearney](https://twitter.com/charlotteearney) if you know of any missing brands that ship to the UK or of any shipping/sizing info that would be useful for shoppers. 
 
