@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: "Plus Size Masterlist"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: true
+email: @charlotteearney
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+heading_anchors: false
+aux_links:
+  "Payments":
+    - "/payments/"
