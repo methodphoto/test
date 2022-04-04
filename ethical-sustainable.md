@@ -63,7 +63,9 @@ ShazzMclazz (6-22)
 
 Haus Dahlia London (S-3XL) it seems that made to measure is available but nothing in stock right now to check this.
 
-What Lo Wants* (1XL-5XL)
+What Lo Wants
+{: .text-red-300 }
+* (1XL-5XL)
 
 Studio Darla <span class=".text-red-300">&#42;</span><br />
 Sizes: **6-22** custom sizing available
