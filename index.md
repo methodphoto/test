@@ -15,6 +15,6 @@ A * indicates a brand that does international shipping - if you are not UK based
 
 ### Contents
 
-[Sustainable/Ethical Fashion](/sustainable-ethical)
+[Sustainable/Ethical Fashion](/ethical-sustainable)
 
 [High street/Fast fashion](highstreet-fastfashion)

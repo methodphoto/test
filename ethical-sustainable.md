@@ -5,8 +5,8 @@ title: Sustainable/Ethical fashion
 
 # {{page.title}}
 
-[Manners London](https://www.mannersldn.com/?gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fmq_XNgODKPht4voQ1hMc20mLmxTaXb4qXYy7oQh00NYID0Z0byB_kaAny_EALw_wcB) (XXS-XXXL, also listed as 4-32 as items are very stretchy and supportive) (woman owned)
-Sizes: XXS-XXXL, also listed as 4-32 as items are very stretchy and supportive
+[Manners London](https://www.mannersldn.com/?gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fmq_XNgODKPht4voQ1hMc20mLmxTaXb4qXYy7oQh00NYID0Z0byB_kaAny_EALw_wcB)<br/>
+Sizes: XXS-XXXL, also listed as 4-32 as items are very stretchy and supportive<br/>
 Notes: Woman owned
 
 [Reformation](https://www.thereformation.com/)
