@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Plus Size UK Masterlist
+---
 
-You can use the [editor on GitHub](https://github.com/methodphoto/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+{{page.title}}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Compiled by Charlotte Earney. Please get in touch via [Twitter @charlotteearney](https://twitter.com/charlotteearney) if you know of any missing brands that ship to the UK or of any shipping/sizing info that would be useful for shoppers. 
 
-### Markdown
+I have not tried all of these brands, this is not advertising nor is this an endorsement of any of these brands, but just a useful resource. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My definition of plus size in this context is any brand that goes above a UK size 20/XL.
 
-```markdown
-Syntax highlighted code block
+A * indicates a brand that does international shipping - if you are not UK based they are likely to also ship to you so it’s worth checking!
 
-# Header 1
-## Header 2
-### Header 3
+[Sustainable/Ethical Fashion](/sustainable-ethical)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/methodphoto/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[High street/Fast fashion](highstreet-fastfashion)
