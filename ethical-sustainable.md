@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Sustainable/Ethical fashion
-parent: Plus Size UK Masterlist
 ---
 
 # {{page.title}}

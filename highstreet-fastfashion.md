@@ -1,11 +1,6 @@
 ---
-
 layout: default
-
 title: Hight Street/Fast Fashion
-
-parent: Plus Size UK Masterlist
-
 ---
 
 
