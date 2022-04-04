@@ -28,7 +28,7 @@ Sizes: **4-32** with long leg lengths available below a size 22
 ### Snag<br/>
 Sizes: **4-36**
 
-### Selkie*
+### Selkie* <br/>
 Sizes: **XXS-5XL**<br/>
 Notes: **Woman owned**
 
@@ -47,13 +47,12 @@ Sizes: **6-30** also custom size/length available
 
 ### Pamut Apparel <br/>
 Sizes: **XS-4XL**<br/>
-
  
-{: .label .label-red } 
-[Wray](https://wray.nyc/)* <br/>
+### [Wray](https://wray.nyc/)* <br/>
 Sizes: **XXS-6XL**
 
-### Alex Alexander Co* (XS-4XL)
+### Alex Alexander Co*
+Sizes: **XS-4XL**
 
 ### Nettle Studios* (XXS-6XL)
 
@@ -74,7 +73,8 @@ Sizes: **6-22** custom sizing available
 ### Turn Black* (S-XXL) custom sizing available at no extra cost (based in India, harder to return items)
 
 ### [Lofty Frocks](https://www.loftyfrocks.uk/)<br/>
-Sizes: **6-20** sizing is only a guide as works from individual client measurements
+Sizes: **6-20** 
+Notes: Sizing is only a guide as works from individual client measurements
 
 Love and Squalor (goes up to an XXL which is estimated 24-26)
 
