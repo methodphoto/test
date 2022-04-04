@@ -7,71 +7,73 @@ search.button: true
 
 # {{page.title}}
 
-[Manners London](https://www.mannersldn.com/?gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fmq_XNgODKPht4voQ1hMc20mLmxTaXb4qXYy7oQh00NYID0Z0byB_kaAny_EALw_wcB)<br/>
+### [Manners London](https://www.mannersldn.com/?gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fmq_XNgODKPht4voQ1hMc20mLmxTaXb4qXYy7oQh00NYID0Z0byB_kaAny_EALw_wcB)<br/>
 Sizes: **XXS-XXXL**, also listed as **4-32** as items are very stretchy and supportive<br/>
 Notes: **Woman owned**
 
-[Reformation](https://www.thereformation.com/)<br/>
+### [Reformation](https://www.thereformation.com/)<br/>
 Sizes: **4-28**
 
-Loud Bodies* <br/>
+### Loud Bodies* <br/>
 Sizes: **XXS-10XL**<br/>
 Notes: **Woman owned**
 
-Fashion Brand Company* <br/>
+### Fashion Brand Company* <br/>
 Sizes: **XS-5XL**<br/>
 Notes: **Woman owned**
 
-Lucy & Yak* <br/>
+### Lucy & Yak* <br/>
 Sizes: **4-32** with long leg lengths available below a size 22
 
-Snag<br/>
+### Snag<br/>
 Sizes: **4-36**
 
-Selkie*
+### Selkie*
 Sizes: **XXS-5XL**<br/>
 Notes: **Woman owned**
 
-Girlfriend* <br/>
+### Girlfriend* <br/>
 Sizes: **XXS-6XL**<br/>
 Notes: **UK stockists include Sancho’s**
 
-Isolated Heroes<br/>
+### Isolated Heroes<br/>
 Sizes: **6-28**
 
-Beaton Linen<br/>
+### Beaton Linen<br/>
 Sizes: **XS-4XL**
 
-My Poor Purse<br/>
+### My Poor Purse<br/>
 Sizes: **6-30** also custom size/length available
 
-Pamut Apparel <br/>
+### Pamut Apparel <br/>
 Sizes: **XS-4XL**<br/>
-International 
+
+International
+ 
 {: .label .label-red } 
 
-Wray* <br/>
+### Wray* <br/>
 Sizes: **XXS-6XL**
 
-Alex Alexander Co* (XS-4XL)
+### Alex Alexander Co* (XS-4XL)
 
-Nettle Studios* (XXS-6XL)
+### Nettle Studios* (XXS-6XL)
 
-Tallulah’s Threads (6-24) custom sizing is available
+### Tallulah’s Threads (6-24) custom sizing is available
 
-ShazzMclazz (6-22)
+### ShazzMclazz (6-22)
 
-Haus Dahlia London (S-3XL) it seems that made to measure is available but nothing in stock right now to check this.
+### Haus Dahlia London (S-3XL) it seems that made to measure is available but nothing in stock right now to check this.
 
-What Lo Wants* 
+### What Lo Wants* 
 Sizes: **1XL-5XL**
 
-Studio Darla <span style="color:.text-red-300;">&#42;</span><br />
+### Studio Darla <span style="color:.text-red-300;">&#42;</span><br />
 Sizes: **6-22** custom sizing available
 
-Hayley Elsa Esser* (XS-3XL)
+### Hayley Elsa Esser* (XS-3XL)
 
-Turn Black* (S-XXL) custom sizing available at no extra cost (based in India, harder to return items)
+### Turn Black* (S-XXL) custom sizing available at no extra cost (based in India, harder to return items)
 
 ### [Lofty Frocks](https://www.loftyfrocks.uk/)<br/>
 Sizes: **6-20** sizing is only a guide as works from individual client measurements
