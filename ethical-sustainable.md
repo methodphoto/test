@@ -72,7 +72,7 @@ Hayley Elsa Esser* (XS-3XL)
 
 Turn Black* (S-XXL) custom sizing available at no extra cost (based in India, harder to return items)
 
-[Lofty Frocks](https://www.loftyfrocks.uk/)<br/>
+### [Lofty Frocks](https://www.loftyfrocks.uk/)<br/>
 Sizes: **6-20** sizing is only a guide as works from individual client measurements
 
 Love and Squalor (goes up to an XXL which is estimated 24-26)
