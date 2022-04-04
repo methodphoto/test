@@ -13,6 +13,8 @@ My definition of plus size in this context is any brand that goes above a UK siz
 
 A * indicates a brand that does international shipping - if you are not UK based they are likely to also ship to you so it’s worth checking!
 
+### Contents
+
 [Sustainable/Ethical Fashion](/sustainable-ethical)
 
 [High street/Fast fashion](highstreet-fastfashion)
