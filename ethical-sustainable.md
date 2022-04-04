@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sustainable/Ethical fashion
+parent: Plus Size UK Masterlist
 ---
 
 # {{page.title}}
@@ -25,7 +26,6 @@ Sizes: **4-32** with long leg lengths available below a size 22
 
 Snag<br/>
 Sizes: **4-36**
-
 
 Selkie* **XXS-5XL**<br/>
 Notes: **Woman owned**
