@@ -6,33 +6,48 @@ title: Sustainable/Ethical fashion
 # {{page.title}}
 
 [Manners London](https://www.mannersldn.com/?gclid=Cj0KCQjw5-WRBhCKARIsAAId9Fmq_XNgODKPht4voQ1hMc20mLmxTaXb4qXYy7oQh00NYID0Z0byB_kaAny_EALw_wcB)<br/>
-Sizes: XXS-XXXL, also listed as 4-32 as items are very stretchy and supportive<br/>
-Notes: Woman owned
+Sizes: **XXS-XXXL**, also listed as **4-32** as items are very stretchy and supportive<br/>
+Notes: **Woman owned**
 
-[Reformation](https://www.thereformation.com/)
-Sizes: 4-28
+[Reformation](https://www.thereformation.com/)<br/>
+Sizes: **4-28**
 
-Loud Bodies* (XXS-10XL) (woman owned)
+Loud Bodies* <br/>
+Sizes: **XXS-10XL**<br/>
+Notes: **Woman owned**
 
-Fashion Brand Company* (XS-5XL) (woman owned)
+Fashion Brand Company* <br/>
+Sizes: **XS-5XL**<br/>
+Notes: **Woman owned**
 
-Lucy & Yak* (4-32 with long leg lengths available below a size 22)
-Snag (4-36)
+Lucy & Yak* <br/>
+Sizes: **4-32** with long leg lengths available below a size 22
+
+Snag<br/>
+Sizes: **4-36**
 
 
-Selkie* (XXS-5XL) (woman owned)
+Selkie* **XXS-5XL**<br/>
+Notes: **Woman owned**
 
-Girlfriend* (XXS-6XL) (UK stockists include Sancho’s)
+Girlfriend* <br/>
+Sizes: **XXS-6XL**<br/>
+Notes: **UK stockists include Sancho’s**
 
-Isolated Heroes (6-28)
+Isolated Heroes<br/>
+Sizes: **6-28**
 
-Beaton Linen (XS-4XL)
+Beaton Linen<br/>
+Sizes: **XS-4XL**
 
-My Poor Purse (6-30) also custom size/length available
+My Poor Purse<br/>
+Sizes: **6-30**a lso custom size/length available
 
-Pamut Apparel* (XS-4XL)
+Pamut Apparel* <br/>
+Sizes: **XS-4XL**
 
-Wray* (XXS-6XL)
+Wray* <br/>
+Sizes: **XXS-6XL**
 
 Alex Alexander Co* (XS-4XL)
 
