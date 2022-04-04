@@ -42,9 +42,10 @@ Beaton Linen<br/>
 Sizes: **XS-4XL**
 
 My Poor Purse<br/>
-Sizes: **6-30**a lso custom size/length available
+Sizes: **6-30** also custom size/length available
 
-Pamut Apparel* <br/>
+Pamut Apparel <br/>
+International {: .label } <br/>
 Sizes: **XS-4XL**
 
 Wray* <br/>
