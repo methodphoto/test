@@ -28,7 +28,8 @@ Sizes: **4-32** with long leg lengths available below a size 22
 Snag<br/>
 Sizes: **4-36**
 
-Selkie* **XXS-5XL**<br/>
+Selkie*
+Sizes: **XXS-5XL**<br/>
 Notes: **Woman owned**
 
 Girlfriend* <br/>
@@ -70,7 +71,8 @@ Hayley Elsa Esser* (XS-3XL)
 
 Turn Black* (S-XXL) custom sizing available at no extra cost (based in India, harder to return items)
 
-Lofty Frocks (6-20) sizing is only a guide as works from individual client measurements
+#### [Lofty Frocks](https://www.loftyfrocks.uk/)<br/>
+Sizes: **6-20** sizing is only a guide as works from individual client measurements
 
 Love and Squalor (goes up to an XXL which is estimated 24-26)
 
