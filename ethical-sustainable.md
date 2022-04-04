@@ -50,7 +50,7 @@ Sizes: **XS-4XL**<br/>
 
  
 {: .label .label-red } 
-### Wray* <br/>
+[Wray](https://www.thereformation.com/)* <br/>
 Sizes: **XXS-6XL**
 
 ### Alex Alexander Co* (XS-4XL)
