@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plus Size UK Masterlist
+nav_exclude: true
 ---
 
 # {{page.title}}

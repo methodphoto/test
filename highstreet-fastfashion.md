@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Hight Street/Fast Fashion
+nav_order: 20
+search.button: true
 ---
 
 

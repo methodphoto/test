@@ -3,3 +3,6 @@ color_scheme: "light"
 search_enabled: true
 title: "Plus Size Fashion"
 baseurl: "/"
+aux_links:
+  "Buy me a Coffee":
+    - "http://ko-fi"
