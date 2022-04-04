@@ -45,7 +45,7 @@ My Poor Purse<br/>
 Sizes: **6-30** also custom size/length available
 
 Pamut Apparel <br/>
-International {: .label } <br/>
+International {: .label .label-red } <br/>
 Sizes: **XS-4XL**
 
 Wray* <br/>
