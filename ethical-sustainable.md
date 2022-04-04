@@ -2,7 +2,7 @@
 layout: default
 title: Sustainable/Ethical fashion
 nav_order: 10
-search.button: true
+button: true
 ---
 
 # {{page.title}}

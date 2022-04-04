@@ -2,7 +2,7 @@
 layout: default
 title: High Street/Fast Fashion
 nav_order: 20
-search.button: true
+button: true
 ---
 
 # {{page.title}}
