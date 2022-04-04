@@ -5,8 +5,6 @@ nav_order: 20
 search.button: true
 ---
 
-
-
 # {{page.title}}
 
 Shein Curve* (0XL-5XL) unpredictable sizing and often isn’t consistent
